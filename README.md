@@ -19,6 +19,13 @@ Python • Pandas • Matplotlib / Seaborn • Looker Studio
 - `docs/final-analytical-report.pdf` → complete analytical report  
 - `dashboard/dashboard-access.pdf` → Looker Studio dashboard access
 
+## Screenshots
+### Dashboard - Top 5 Most Popular Artists Analysis
+![Dashboard Top 5](images/dashboard-screenshot.png)
+
+### Notebook - EDA Boxplot
+![EDA Boxplot](images/eda-boxplot.png)
+
 ## How to Navigate
 1. Start with the analytical report (`final-analytical-report.pdf`) to understand the objectives, methodology, and context.  
 2. Review the notebook (`etl-eda-visualizations.ipynb`) for the step-by-step ETL and exploratory analysis.  
