@@ -24,7 +24,7 @@ Python • Pandas • Matplotlib / Seaborn • Looker Studio
 ![Dashboard Top 5](images/dashboard-screenshot.png)
 
 ### Notebook - EDA Boxplot
-![EDA Boxplot](images/eda-boxplot.png)
+![EDA Boxplot](images/eda-boxplot-notebook.png)
 
 ## How to Navigate
 1. Start with the analytical report (`final-analytical-report.pdf`) to understand the objectives, methodology, and context.  
