@@ -14,11 +14,6 @@ Comparative analysis between Rolling Stone's 2020 ranking and Spotify popularity
 ## Tech Stack
 Python • Pandas • Matplotlib / Seaborn • Looker Studio
 
-## Repository Contents
-- `notebooks/etl-eda-visualizations.ipynb` → full ETL + EDA + visualizations  
-- `docs/final-analytical-report.pdf` → complete analytical report  
-- `dashboard/dashboard-access.pdf` → Looker Studio dashboard access
-
 ## Screenshots
 ### Dashboard - Top 5 Most Popular Artists Analysis
 ![Dashboard Top 5](images/dashboard-screenshot.png)
