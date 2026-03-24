@@ -34,7 +34,7 @@ Python • Pandas • Matplotlib / Seaborn • Looker Studio
 - **Popularity vs. critical acclaim** – Critically acclaimed artists have moderate popularity, while the most popular Spotify artists enjoy mass appeal but do not rank highly in Rolling Stone.
 - **Generational and cultural differences** – Spotify reflects younger, more dynamic tastes influenced by globalization, whereas critics maintain a perspective grounded in historical and cultural references.
 - **Relevance of “new” artists** – Spotify’s popular artists are mostly young with shorter careers, indicating openness to fresh and challenging music compared to the classic canon.
-- **Biases** – Critics’ rankings may be influenced by historical/cultural biases, while Spotify reflects broader audience trends, though algorithmic biases exist.
+- **Biases** – Critics’ rankings may be influenced by historical/cultural biases, while Spotify reflects broader audience trends, with potential algorithmic biases.
 - **Gender disparity** – Both Rolling Stone and Spotify show male dominance, with only one female artist among the top five in each group, highlighting the lack of representation of women and other gender identities.  
 
 ## Project Context
